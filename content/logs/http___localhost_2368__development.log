@@ -1,0 +1,111 @@
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Ghost is running in development...","time":"2025-12-18T17:12:15.378Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Listening on: 127.0.0.1:2368","time":"2025-12-18T17:12:15.379Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Url configured as: http://localhost:2368/","time":"2025-12-18T17:12:15.379Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Ctrl+C to shut down","time":"2025-12-18T17:12:15.380Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Ghost server started in 0.803s","time":"2025-12-18T17:12:15.381Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":40,"version":"6.10.3","msg":"Database state requires initialisation.","time":"2025-12-18T17:12:15.632Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: newsletters","time":"2025-12-18T17:12:15.939Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: posts","time":"2025-12-18T17:12:15.968Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: posts_meta","time":"2025-12-18T17:12:15.998Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: users","time":"2025-12-18T17:12:16.008Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: posts_authors","time":"2025-12-18T17:12:16.023Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: roles","time":"2025-12-18T17:12:16.029Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: roles_users","time":"2025-12-18T17:12:16.039Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: permissions","time":"2025-12-18T17:12:16.044Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: permissions_users","time":"2025-12-18T17:12:16.054Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: permissions_roles","time":"2025-12-18T17:12:16.059Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: settings","time":"2025-12-18T17:12:16.064Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: tags","time":"2025-12-18T17:12:16.074Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: posts_tags","time":"2025-12-18T17:12:16.084Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: invites","time":"2025-12-18T17:12:16.094Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: brute","time":"2025-12-18T17:12:16.110Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: sessions","time":"2025-12-18T17:12:16.115Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: integrations","time":"2025-12-18T17:12:16.124Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: webhooks","time":"2025-12-18T17:12:16.134Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: api_keys","time":"2025-12-18T17:12:16.140Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: mobiledoc_revisions","time":"2025-12-18T17:12:16.150Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: post_revisions","time":"2025-12-18T17:12:16.159Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members","time":"2025-12-18T17:12:16.169Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: products","time":"2025-12-18T17:12:16.198Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: offers","time":"2025-12-18T17:12:16.208Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: benefits","time":"2025-12-18T17:12:16.230Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: products_benefits","time":"2025-12-18T17:12:16.239Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_products","time":"2025-12-18T17:12:16.245Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: posts_products","time":"2025-12-18T17:12:16.249Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_created_events","time":"2025-12-18T17:12:16.254Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_cancel_events","time":"2025-12-18T17:12:16.264Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_payment_events","time":"2025-12-18T17:12:16.269Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_login_events","time":"2025-12-18T17:12:16.275Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_email_change_events","time":"2025-12-18T17:12:16.280Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_status_events","time":"2025-12-18T17:12:16.285Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_product_events","time":"2025-12-18T17:12:16.290Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_paid_subscription_events","time":"2025-12-18T17:12:16.295Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: labels","time":"2025-12-18T17:12:16.300Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_labels","time":"2025-12-18T17:12:16.314Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_stripe_customers","time":"2025-12-18T17:12:16.320Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: subscriptions","time":"2025-12-18T17:12:16.329Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_stripe_customers_subscriptions","time":"2025-12-18T17:12:16.334Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_subscription_created_events","time":"2025-12-18T17:12:16.348Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: offer_redemptions","time":"2025-12-18T17:12:16.359Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_subscribe_events","time":"2025-12-18T17:12:16.365Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: donation_payment_events","time":"2025-12-18T17:12:16.374Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: stripe_products","time":"2025-12-18T17:12:16.379Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: stripe_prices","time":"2025-12-18T17:12:16.389Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: actions","time":"2025-12-18T17:12:16.399Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: emails","time":"2025-12-18T17:12:16.404Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: email_batches","time":"2025-12-18T17:12:16.418Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: email_recipients","time":"2025-12-18T17:12:16.424Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: email_recipient_failures","time":"2025-12-18T17:12:16.452Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: tokens","time":"2025-12-18T17:12:16.458Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: snippets","time":"2025-12-18T17:12:16.471Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: custom_theme_settings","time":"2025-12-18T17:12:16.481Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_newsletters","time":"2025-12-18T17:12:16.486Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: comments","time":"2025-12-18T17:12:16.495Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: comment_likes","time":"2025-12-18T17:12:16.500Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: comment_reports","time":"2025-12-18T17:12:16.505Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: jobs","time":"2025-12-18T17:12:16.510Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: redirects","time":"2025-12-18T17:12:16.520Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_click_events","time":"2025-12-18T17:12:16.529Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: members_feedback","time":"2025-12-18T17:12:16.534Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: suppressions","time":"2025-12-18T17:12:16.539Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: email_spam_complaint_events","time":"2025-12-18T17:12:16.549Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: mentions","time":"2025-12-18T17:12:16.558Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: milestones","time":"2025-12-18T17:12:16.564Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: collections","time":"2025-12-18T17:12:16.569Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: collections_posts","time":"2025-12-18T17:12:16.578Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: recommendations","time":"2025-12-18T17:12:16.583Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: recommendation_click_events","time":"2025-12-18T17:12:16.588Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: recommendation_subscribe_events","time":"2025-12-18T17:12:16.594Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: outbox","time":"2025-12-18T17:12:16.599Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Creating table: automated_emails","time":"2025-12-18T17:12:16.610Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Collection","time":"2025-12-18T17:12:17.053Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Product","time":"2025-12-18T17:12:17.063Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Newsletter","time":"2025-12-18T17:12:17.078Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Tag","time":"2025-12-18T17:12:17.087Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Permission","time":"2025-12-18T17:12:17.094Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Post","time":"2025-12-18T17:12:17.508Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Model: Integration","time":"2025-12-18T17:12:18.202Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Relation: Role to Permission","time":"2025-12-18T17:12:18.270Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Relation: Post to Tag","time":"2025-12-18T17:12:18.682Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Database is in a ready state.","time":"2025-12-18T17:12:18.764Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Ghost database ready in 4.186s","time":"2025-12-18T17:12:18.764Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Configured site_uuid was not found or invalid. Setting site_uuid to a new value: a1515dd5-5cb2-4b19-95ad-ebc13f3ac130","time":"2025-12-18T17:12:19.515Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Invalidating assets for regeneration","time":"2025-12-18T17:12:20.716Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Adding offloaded job to the inline job queue","time":"2025-12-18T17:12:21.540Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Scheduling job mentions-email-report at 46 22 * * * *. Next run on: Thu Dec 18 2025 17:22:46 GMT+0000 (Coordinated Universal Time)","time":"2025-12-18T17:12:21.547Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"[EmailAnalytics] Initialized with SEQUENTIAL processing mode","time":"2025-12-18T17:12:21.677Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":40,"version":"6.10.3","msg":"Explore URL not set","time":"2025-12-18T17:12:21.799Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"URL Service ready in 1774ms","time":"2025-12-18T17:12:21.801Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Adding one-off job to inlineQueue with current length = 0 called 'members-migrations'","time":"2025-12-18T17:12:21.879Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Stripe not configured - skipping migrations","time":"2025-12-18T17:12:21.888Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Adding offloaded job to the inline job queue","time":"2025-12-18T17:12:22.340Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Scheduling job clean-expired-comped at 40 14 5 * * *. Next run on: Fri Dec 19 2025 05:14:40 GMT+0000 (Coordinated Universal Time)","time":"2025-12-18T17:12:22.343Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Adding offloaded job to the inline job queue","time":"2025-12-18T17:12:22.350Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Scheduling job clean-tokens at 39 49 18 * * *. Next run on: Thu Dec 18 2025 18:49:39 GMT+0000 (Coordinated Universal Time)","time":"2025-12-18T17:12:22.353Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Ghost booted in 7.784s","time":"2025-12-18T17:12:22.362Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Adding offloaded job to the inline job queue","time":"2025-12-18T17:12:22.368Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Scheduling job update-check at 1 34 0 * * *. Next run on: Fri Dec 19 2025 00:34:01 GMT+0000 (Coordinated Universal Time)","time":"2025-12-18T17:12:22.373Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","msg":"Running milestone emails job on Thu Dec 18 2025 17:12:27 GMT+0000 (Coordinated Universal Time)","time":"2025-12-18T17:12:22.411Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":30,"version":"6.10.3","req":{"meta":{"requestId":"4127dc2a-368b-4931-9acc-f1c4b07f404c","userId":null},"url":"/.ghost/activitypub/v1/site/","method":"GET","originalUrl":"/.ghost/activitypub/v1/site/","params":{},"headers":{"authorization":"**REDACTED**","accept":"*/*","user-agent":"node-fetch/1.0 (+https://github.com/bitinn/node-fetch)","accept-encoding":"gzip,deflate","host":"localhost:2368","connection":"keep-alive"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"no-cache, private, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0","content-type":"text/html; charset=utf-8","etag":"W/\"481-l8Fr5p9pV6Qa2uNyFvWv6OdIdjo\"","vary":"Accept-Encoding","content-encoding":"gzip"},"statusCode":404,"responseTime":"629ms"},"msg":"","time":"2025-12-18T17:12:23.052Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":50,"version":"6.10.3","msg":"Could not get webhook secret for ActivityPub FetchError: invalid json response body at http://localhost:2368/.ghost/activitypub/v1/site/ reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","time":"2025-12-18T17:12:23.054Z","v":0}
+{"name":"Log","hostname":"codespaces-0e2d19","pid":26066,"level":50,"version":"6.10.3","msg":"No webhook secret found - cannot initialise","time":"2025-12-18T17:12:23.054Z","v":0}
